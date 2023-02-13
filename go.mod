@@ -1,4 +1,4 @@
-module github.com/Leila-codes/redisearch-go/v2
+module github.com/Leila-Codes/redisearch-go/v2
 
 go 1.16
 
