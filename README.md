@@ -15,7 +15,7 @@ Go client for [RediSearch](http://redisearch.io), based on redigo.
 # Installing
 
 ```sh
-go get github.com/RediSearch/redisearch-go/redisearch
+go get github.com/Leila-Codes/redisearch-go/redisearch
 ```
 
 # Usage Example
